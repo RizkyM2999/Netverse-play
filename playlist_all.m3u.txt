@@ -1,0 +1,1043 @@
+#EXTM3U
+#EXTINF:-1,Tetangga Baru
+https://cdn.jwplayer.com/manifests/4cWUbO78.m3u8
+#EXTINF:-1,Meja Pingpong Bastian
+https://cdn.jwplayer.com/manifests/CJ6GcIob.m3u8
+#EXTINF:-1,Rayuan Pulau Kelapa
+https://cdn.jwplayer.com/manifests/4murPVg4.m3u8
+#EXTINF:-1,Kejutan Ultah Yang Gagal
+https://cdn.jwplayer.com/manifests/VBCXHTtu.m3u8
+#EXTINF:-1,Maradona Dari Gunung Kidul
+https://cdn.jwplayer.com/manifests/puOuRo43.m3u8
+#EXTINF:-1,Celana Robek
+https://cdn.jwplayer.com/manifests/EWowj5ET.m3u8
+#EXTINF:-1,Cemburu - Ferry Salim & Restu Sinaga
+https://cdn.jwplayer.com/manifests/ufsdEVTx.m3u8
+#EXTINF:-1,Baju Kondangan Kekecilan
+https://cdn.jwplayer.com/manifests/g0BclfSS.m3u8
+#EXTINF:-1,Ulang Tahun Bastian
+https://cdn.jwplayer.com/manifests/lKRJWzwA.m3u8
+#EXTINF:-1,Mertua - Jajang C Noer
+https://cdn.jwplayer.com/manifests/ba232vPW.m3u8
+#EXTINF:-1,Gagal Ke Puncak
+https://cdn.jwplayer.com/manifests/cznylpl7.m3u8
+#EXTINF:-1,Adu Kuis
+https://cdn.jwplayer.com/manifests/Vt3vPlN6.m3u8
+#EXTINF:-1,Ultah Mickey Mouse
+https://cdn.jwplayer.com/manifests/JfexTw8G.m3u8
+#EXTINF:-1,Pura-Pura Sakit
+https://cdn.jwplayer.com/manifests/MzpauphT.m3u8
+#EXTINF:-1,Ultah Yang Terlupakan
+https://cdn.jwplayer.com/manifests/vG9s4iUM.m3u8
+#EXTINF:-1,Narsis Bertongsis
+https://cdn.jwplayer.com/manifests/bciEDNPm.m3u8
+#EXTINF:-1,Penumpang Gelap
+https://cdn.jwplayer.com/manifests/rq1htiHa.m3u8
+#EXTINF:-1,Ultah Net
+https://cdn.jwplayer.com/manifests/pXZepxm6.m3u8
+#EXTINF:-1,Adu Nge-Gym
+https://cdn.jwplayer.com/manifests/LslzYwpV.m3u8
+#EXTINF:-1,Phobia Nyamuk
+https://cdn.jwplayer.com/manifests/uruMgvzZ.m3u8
+#EXTINF:-1,Adi Cedera Bastian Menderita
+https://cdn.jwplayer.com/manifests/DurlTp1u.m3u8
+#EXTINF:-1,Me Time
+https://cdn.jwplayer.com/manifests/5Lum19dP.m3u8
+#EXTINF:-1,Musim Kawin Telah Tiba
+https://cdn.jwplayer.com/manifests/tVBwPXNb.m3u8
+#EXTINF:-1,Truth Or Dare
+https://cdn.jwplayer.com/manifests/kttwyRPZ.m3u8
+#EXTINF:-1,Adi Sakit Gigi
+https://cdn.jwplayer.com/manifests/R9mbiX9w.m3u8
+#EXTINF:-1,Dead Water
+https://cdn.jwplayer.com/manifests/9nGLG5gG.m3u8
+#EXTINF:-1,Frozen
+https://cdn.jwplayer.com/manifests/2ckHkOhz.m3u8
+#EXTINF:-1,Vacumm Cleaner
+https://cdn.jwplayer.com/manifests/yZMTj6Cf.m3u8
+#EXTINF:-1,The Matchmaker
+https://cdn.jwplayer.com/manifests/D3MWbdR6.m3u8
+#EXTINF:-1,Kangen
+https://cdn.jwplayer.com/manifests/iMzGEGW5.m3u8
+#EXTINF:-1,Hell On Earth
+https://cdn.jwplayer.com/manifests/ZDn5S4kd.m3u8
+#EXTINF:-1,Anger Management : Edi Brokoli
+https://cdn.jwplayer.com/manifests/GEVqu3VQ.m3u8
+#EXTINF:-1,New Job : Griff Pradapa
+https://cdn.jwplayer.com/manifests/HKnXFL3b.m3u8
+#EXTINF:-1,Weekend Rasa Weekday : Griff Pradapa
+https://cdn.jwplayer.com/manifests/GuaL5z41.m3u8
+#EXTINF:-1,Lebaran Sebentar Lagi
+https://cdn.jwplayer.com/manifests/Oui6e427.m3u8
+#EXTINF:-1,Six Pack Vs Family Pack
+https://cdn.jwplayer.com/manifests/JprVnMR2.m3u8
+#EXTINF:-1,Self Security
+https://cdn.jwplayer.com/manifests/LEhbYTyW.m3u8
+#EXTINF:-1,Interview Simalakama
+https://cdn.jwplayer.com/manifests/6Spp4s8X.m3u8
+#EXTINF:-1,Monster Chef
+https://cdn.jwplayer.com/manifests/RiijR61z.m3u8
+#EXTINF:-1,Komik Bastian Yang Hilang
+https://cdn.jwplayer.com/manifests/RxnwWMGP.m3u8
+#EXTINF:-1,Sang Guru
+https://cdn.jwplayer.com/manifests/CFWvovVS.m3u8
+#EXTINF:-1,17 Agustus : Tarzan (Pak RT)
+https://cdn.jwplayer.com/manifests/m7F0BdXj.m3u8
+#EXTINF:-1,Drama Asisten Rumah Tangga : Chika Waode (ART)
+https://cdn.jwplayer.com/manifests/00q7inSY.m3u8
+#EXTINF:-1,Curhat Sahabat : Nina Zatulini (Stella)
+https://cdn.jwplayer.com/manifests/2jQI6qb0.m3u8
+#EXTINF:-1,Tamu Dari Jerman : Alexa Key (Hilda)
+https://cdn.jwplayer.com/manifests/WNQlwzCP.m3u8
+#EXTINF:-1,My Dearest Sister : Shania JKT48
+https://cdn.jwplayer.com/manifests/fXnwHQ5Q.m3u8
+#EXTINF:-1,Twitwar
+https://cdn.jwplayer.com/manifests/YzifqhYl.m3u8
+#EXTINF:-1,Ayam Jago
+https://cdn.jwplayer.com/manifests/iDTCGOtE.m3u8
+#EXTINF:-1,Misterius Doll
+https://cdn.jwplayer.com/manifests/j2NFoZkF.m3u8
+#EXTINF:-1,Sportif Dong : Tarzan
+https://cdn.jwplayer.com/manifests/h9c8UIy7.m3u8
+#EXTINF:-1,Motivator : Rene Suhardono
+https://cdn.jwplayer.com/manifests/9ZVvjUp0.m3u8
+#EXTINF:-1,PS4 Gulipat
+https://cdn.jwplayer.com/manifests/BQHjzWhT.m3u8
+#EXTINF:-1,Little Trouble Monster : Manuella Villareal
+https://cdn.jwplayer.com/manifests/1HGYcMr9.m3u8
+#EXTINF:-1,Keris Masa Gitu
+https://cdn.jwplayer.com/manifests/SXteIqdz.m3u8
+#EXTINF:-1,Made In India : Gandhi Fernando
+https://cdn.jwplayer.com/manifests/O7h9LweW.m3u8
+#EXTINF:-1,The Fault In Our Stars
+https://cdn.jwplayer.com/manifests/nBDemJIC.m3u8
+#EXTINF:-1,Inspirasi Yang Tertunda
+https://cdn.jwplayer.com/manifests/1I2Y7Y8n.m3u8
+#EXTINF:-1,Bi Yuti : Eddi Brokoli
+https://cdn.jwplayer.com/manifests/6IRujVi8.m3u8
+#EXTINF:-1,Cerita Di Bioskop
+https://cdn.jwplayer.com/manifests/SCFoSkGN.m3u8
+#EXTINF:-1,Gara-Gara Buku : Joshua Pandelaki
+https://cdn.jwplayer.com/manifests/uMtSD4bi.m3u8
+#EXTINF:-1,The Boy Next Door : Gading Marteen
+https://cdn.jwplayer.com/manifests/dQrETwE9.m3u8
+#EXTINF:-1,Work Hard, Play Hard
+https://cdn.jwplayer.com/manifests/ClWOSYkr.m3u8
+#EXTINF:-1,Kupon Undian
+https://cdn.jwplayer.com/manifests/vqeN1QyH.m3u8
+#EXTINF:-1,Basmeo Biliet
+https://cdn.jwplayer.com/manifests/EOtalOWp.m3u8
+#EXTINF:-1,Misi Perdamaian
+https://cdn.jwplayer.com/manifests/9yUkjHT9.m3u8
+#EXTINF:-1,Konser Rock : Poppy Sovia
+https://cdn.jwplayer.com/manifests/zyn4etJK.m3u8
+#EXTINF:-1,Rahasia Angel
+https://cdn.jwplayer.com/manifests/AElmMhAk.m3u8
+#EXTINF:-1,Harvard Malang
+https://cdn.jwplayer.com/manifests/TX9IILrZ.m3u8
+#EXTINF:-1,Halloween Party (Special Halloween)
+https://cdn.jwplayer.com/manifests/B5zPWSo6.m3u8
+#EXTINF:-1,New School : Eddi Brokoli
+https://cdn.jwplayer.com/manifests/S67NtHMC.m3u8
+#EXTINF:-1,Casting : Ibnu Jamil
+https://cdn.jwplayer.com/manifests/mK0YkT53.m3u8
+#EXTINF:-1,Teman Masa Gitu : Olga Lydia, Trisa T
+https://cdn.jwplayer.com/manifests/W9JpqaYJ.m3u8
+#EXTINF:-1,Guru Masakku : Tike Priatnakusuma
+https://cdn.jwplayer.com/manifests/HN5HVoZz.m3u8
+#EXTINF:-1,Behind Bars
+https://cdn.jwplayer.com/manifests/PwqR02Hb.m3u8
+#EXTINF:-1,Sang Maestro : Arifin Putra
+https://cdn.jwplayer.com/manifests/7BpmKNOK.m3u8
+#EXTINF:-1,Asli Apa Palsu : Patricia Gouw
+https://cdn.jwplayer.com/manifests/eWMz8v2c.m3u8
+#EXTINF:-1,Uang Tabungan
+https://cdn.jwplayer.com/manifests/TCjtV62t.m3u8
+#EXTINF:-1,Who'S The Boss : Soraya Haque
+https://cdn.jwplayer.com/manifests/xzECDvNZ.m3u8
+#EXTINF:-1,Tes Keromantisan Pasangan
+https://cdn.jwplayer.com/manifests/tPxrARw2.m3u8
+#EXTINF:-1,Hipnotis : Verdi Solaiman
+https://cdn.jwplayer.com/manifests/05odKcek.m3u8
+#EXTINF:-1,Dynamo Man
+https://cdn.jwplayer.com/manifests/Zfq1HyiR.m3u8
+#EXTINF:-1,Adi Jadi Dua : Aria Sondang
+https://cdn.jwplayer.com/manifests/rpUJnobX.m3u8
+#EXTINF:-1,Pertama Kali Bintang Masak Enak Untuk Bastian
+https://cdn.jwplayer.com/manifests/9Mk2OZdy.m3u8
+#EXTINF:-1,Woman Bad Habits
+https://cdn.jwplayer.com/manifests/rjY90qfp.m3u8
+#EXTINF:-1,Kursus Adi Bintang : Monica Oemardi
+https://cdn.jwplayer.com/manifests/agCc5EFj.m3u8
+#EXTINF:-1,Lebih Baik Sakit Gigi
+https://cdn.jwplayer.com/manifests/fTMJTFEm.m3u8
+#EXTINF:-1,Abrakadabra
+https://cdn.jwplayer.com/manifests/JGlnPiMa.m3u8
+#EXTINF:-1,Boys Will Be Boys
+https://cdn.jwplayer.com/manifests/yDEbVyiv.m3u8
+#EXTINF:-1,Hari Jadian
+https://cdn.jwplayer.com/manifests/JPl4JMc8.m3u8
+#EXTINF:-1,Surat Yang Tertukar
+https://cdn.jwplayer.com/manifests/NZYOZzEa.m3u8
+#EXTINF:-1,Bintang Time's Out : Angel Pieters, Sarah Safitri, Sherly Benita
+https://cdn.jwplayer.com/manifests/qbvYT9gD.m3u8
+#EXTINF:-1,I Want To Be Millionere
+https://cdn.jwplayer.com/manifests/4Kqqobnf.m3u8
+#EXTINF:-1,Gara-Gara Hujan
+https://cdn.jwplayer.com/manifests/7vGXs1DI.m3u8
+#EXTINF:-1,Eksperimen Bintang
+https://cdn.jwplayer.com/manifests/PzDsiSwM.m3u8
+#EXTINF:-1,TV Addict
+https://cdn.jwplayer.com/manifests/csPLSILi.m3u8
+#EXTINF:-1,Kena Embargo
+https://cdn.jwplayer.com/manifests/EPFA52O9.m3u8
+#EXTINF:-1,Time Is Money
+https://cdn.jwplayer.com/manifests/WwH7ZyYn.m3u8
+#EXTINF:-1,Cenayang
+https://cdn.jwplayer.com/manifests/fcVvEdZl.m3u8
+#EXTINF:-1,1st Anniversary : Armand Maulana
+https://cdn.jwplayer.com/manifests/STVvZ47M.m3u8
+#EXTINF:-1,No Amazing Race 3
+https://cdn.jwplayer.com/manifests/P7QwSr7i.m3u8
+#EXTINF:-1,No Amazing Race 4
+https://cdn.jwplayer.com/manifests/QiucruiP.m3u8
+#EXTINF:-1,Ada Ular Di Rumah 1
+https://cdn.jwplayer.com/manifests/VP96nMEI.m3u8
+#EXTINF:-1,Ada Ular Di Rumah 2
+https://cdn.jwplayer.com/manifests/kyPbrTrJ.m3u8
+#EXTINF:-1,Ada Ular Di Rumah 3 : Mike Lucock
+https://cdn.jwplayer.com/manifests/bbY2iB7n.m3u8
+#EXTINF:-1,Ada Ular Di Rumah 4
+https://cdn.jwplayer.com/manifests/DYM2qca3.m3u8
+#EXTINF:-1,Ada Ular Di Rumah 5 : Mike Lucock
+https://cdn.jwplayer.com/manifests/0qbRIk2j.m3u8
+#EXTINF:-1,Gara-Gara Sulis 1 : Edo Borne
+https://cdn.jwplayer.com/manifests/YPuywakg.m3u8
+#EXTINF:-1,Gara-Gara Sulis 2 : Edo Borne, Hesti Purwadinata
+https://cdn.jwplayer.com/manifests/6dob5m1Q.m3u8
+#EXTINF:-1,Gara-Gara Sulis 3 : Edo Borne
+https://cdn.jwplayer.com/manifests/bK0LUMAO.m3u8
+#EXTINF:-1,Gara-Gara Sulis 4 : Edo Borne, Hesti Purwadinata
+https://cdn.jwplayer.com/manifests/Tdvb0hoe.m3u8
+#EXTINF:-1,Misteri Legging
+https://cdn.jwplayer.com/manifests/2BoFigpJ.m3u8
+#EXTINF:-1,Ngamuk Di Twitter : Edi Brokoli
+https://cdn.jwplayer.com/manifests/MDCqDdy6.m3u8
+#EXTINF:-1,Valentine
+https://cdn.jwplayer.com/manifests/Wp1nmGnh.m3u8
+#EXTINF:-1,Ketagihan Batu 1
+https://cdn.jwplayer.com/manifests/w5Qkk0A4.m3u8
+#EXTINF:-1,Ketagihan Batu 2
+https://cdn.jwplayer.com/manifests/W6TfLYZt.m3u8
+#EXTINF:-1,Surprise Party Special Imlek
+https://cdn.jwplayer.com/manifests/jSjpJPQ8.m3u8
+#EXTINF:-1,Perang Panas Dingin 1 : Mathias Muchus, Rahma Landy, Edi Brokoli, Maria Sabta
+None
+#EXTINF:-1,Perang Panas Dingin 2 : Rahma Landy, Edi Brokoli, Maria Sabta
+None
+#EXTINF:-1,Perang Panas Dingin 3 : Rahma Landy, Edi Brokoli, Maria Sabta
+https://cdn.jwplayer.com/manifests/j97kO6nI.m3u8
+#EXTINF:-1,Perang Panas Dingin 4 : Rahma Landy, Edi Brokoli, Maria Sabta
+https://cdn.jwplayer.com/manifests/i7BLUXDs.m3u8
+#EXTINF:-1,Perang Panas Dingin 5 : Mathias Muchus, Rahma Landy, Edi Brokoli, Maria Sabta
+https://cdn.jwplayer.com/manifests/SO6LXxTc.m3u8
+#EXTINF:-1,Ga Tahan Johan 1 : Mike Lewis
+https://cdn.jwplayer.com/manifests/objmzebv.m3u8
+#EXTINF:-1,Ga Tahan Johan 2 : Mike Lewis
+https://cdn.jwplayer.com/manifests/atoBXyrY.m3u8
+#EXTINF:-1,Ga Tahan Johan 3 : Mike Lewis
+https://cdn.jwplayer.com/manifests/J0m8uCYp.m3u8
+#EXTINF:-1,After The War 1
+https://cdn.jwplayer.com/manifests/hZxrE1hN.m3u8
+#EXTINF:-1,After The War 2 : Rahma Landy
+https://cdn.jwplayer.com/manifests/vX06D6Pk.m3u8
+#EXTINF:-1,After The War 3 : Rahma Landy
+https://cdn.jwplayer.com/manifests/xiDTFScL.m3u8
+#EXTINF:-1,After The War 4 : Fuad Idris
+https://cdn.jwplayer.com/manifests/MvnLJZcg.m3u8
+#EXTINF:-1,After The War 5: Mathias Muchus
+https://cdn.jwplayer.com/manifests/ioIxkO65.m3u8
+#EXTINF:-1,Cicak Vs Komodo 1 : Reza Rahadian
+https://cdn.jwplayer.com/manifests/PCAsCgSx.m3u8
+#EXTINF:-1,Cicak Vs Komodo 2 : Reza Rahadian
+https://cdn.jwplayer.com/manifests/9OA3Opoh.m3u8
+#EXTINF:-1,Cicak Vs Komodo 3 : Reza Rahadian
+https://cdn.jwplayer.com/manifests/GDcOWpVl.m3u8
+#EXTINF:-1,Tas Mahal Angel (New Fashion)
+https://cdn.jwplayer.com/manifests/iuZCK5cl.m3u8
+#EXTINF:-1,Tas Mahal Angel (Istri Bekerja Vs Istri Di Rumah)
+https://cdn.jwplayer.com/manifests/nJ2xLjFD.m3u8
+#EXTINF:-1,Tas Mahal Angel (Aliran Pam Mati)
+https://cdn.jwplayer.com/manifests/Jj1G06z1.m3u8
+#EXTINF:-1,Tas Mahal Angel (Bastian Sok Atlet)
+https://cdn.jwplayer.com/manifests/mLow5FNG.m3u8
+#EXTINF:-1,Tas Mahal Angel (Ulah Pak RT) : Tarzan
+https://cdn.jwplayer.com/manifests/YDmA7xK8.m3u8
+#EXTINF:-1,Reuni : Ariel Noah
+https://cdn.jwplayer.com/manifests/MmxVkGKC.m3u8
+#EXTINF:-1,Mlm 1: Indra Birowo
+https://cdn.jwplayer.com/manifests/K9EUJqmv.m3u8
+#EXTINF:-1,Mlm 2: Indra Birowo
+https://cdn.jwplayer.com/manifests/PdMG6deX.m3u8
+#EXTINF:-1,Mlm 3 : Tarzan, Indra Birowo
+https://cdn.jwplayer.com/manifests/Dd4LzlAl.m3u8
+#EXTINF:-1,Paket Misterius 1 : My Honey Bunny
+https://cdn.jwplayer.com/manifests/yQ7nFqDt.m3u8
+#EXTINF:-1,Paket Misterius 2 : Family Gathering
+https://cdn.jwplayer.com/manifests/Ecrktahj.m3u8
+#EXTINF:-1,Koleksi Mobil - Mobilan
+https://cdn.jwplayer.com/manifests/6iS5cwNI.m3u8
+#EXTINF:-1,Second Honeymoon 1
+https://cdn.jwplayer.com/manifests/KclGbd3I.m3u8
+#EXTINF:-1,Second Honeymoon 2
+https://cdn.jwplayer.com/manifests/EcTTcccs.m3u8
+#EXTINF:-1,Second Honeymoon 3
+https://cdn.jwplayer.com/manifests/Cn1A5uSN.m3u8
+#EXTINF:-1,Istriku Jenius 1: Joshua Pandelaki
+https://cdn.jwplayer.com/manifests/O4RMVXoW.m3u8
+#EXTINF:-1,Istriku Jenius 2
+https://cdn.jwplayer.com/manifests/PBO5hPxP.m3u8
+#EXTINF:-1,Istriku Jenius 3
+https://cdn.jwplayer.com/manifests/yNP0wvyE.m3u8
+#EXTINF:-1,Istriku Jenius 4
+https://cdn.jwplayer.com/manifests/OmmL6hOR.m3u8
+#EXTINF:-1,Istriku Jenius 5 : Joshua Pandelaki
+https://cdn.jwplayer.com/manifests/AgL9ZoCo.m3u8
+#EXTINF:-1,Pekerjaan Tidak Sesuai Jobdesc
+https://cdn.jwplayer.com/manifests/SY5ASAyV.m3u8
+#EXTINF:-1,English Test Bikin Stress
+https://cdn.jwplayer.com/manifests/znWmXPLE.m3u8
+#EXTINF:-1,Pohon Tetangga
+https://cdn.jwplayer.com/manifests/FeQ2NKKK.m3u8
+#EXTINF:-1,Privacy
+https://cdn.jwplayer.com/manifests/TSoFQ4Vl.m3u8
+#EXTINF:-1,A Weekend Without You 1 : Tarzan
+https://cdn.jwplayer.com/manifests/ygNI3aKQ.m3u8
+#EXTINF:-1,A Weekend Without You 2 : Tarzan, Jajang C Noer
+https://cdn.jwplayer.com/manifests/Zifilrvj.m3u8
+#EXTINF:-1,Mikir Kalau Parkir
+https://cdn.jwplayer.com/manifests/IULqc9YM.m3u8
+#EXTINF:-1,Terserah Jadi Masalah
+https://cdn.jwplayer.com/manifests/gTSkssyT.m3u8
+#EXTINF:-1,Kulkas
+None
+#EXTINF:-1,Gara-Gara Timbangan
+https://cdn.jwplayer.com/manifests/H9hGCuWS.m3u8
+#EXTINF:-1,Demam Marathon
+https://cdn.jwplayer.com/manifests/brs5bchg.m3u8
+#EXTINF:-1,Senam Wajah
+https://cdn.jwplayer.com/manifests/93jYtnOS.m3u8
+#EXTINF:-1,Coc
+https://cdn.jwplayer.com/manifests/RHJfvMDE.m3u8
+#EXTINF:-1,Hello Horror 1
+https://cdn.jwplayer.com/manifests/Spu2txC9.m3u8
+#EXTINF:-1,Hello Horror 2
+https://cdn.jwplayer.com/manifests/DnaliTYO.m3u8
+#EXTINF:-1,Cuci Kaki
+https://cdn.jwplayer.com/manifests/yOhzCbEv.m3u8
+#EXTINF:-1,Cinderella 1
+None
+#EXTINF:-1,Cinderella 2
+https://cdn.jwplayer.com/manifests/Y9lEbKLK.m3u8
+#EXTINF:-1,War Of Colors
+https://cdn.jwplayer.com/manifests/9jQGYh8E.m3u8
+#EXTINF:-1,When Everything Changes
+https://cdn.jwplayer.com/manifests/87j0LKLT.m3u8
+#EXTINF:-1,Cerita Bintang (Behind The Scene Goes To Season 3)
+https://cdn.jwplayer.com/manifests/hpQSom3m.m3u8
+#EXTINF:-1,Cerita Bastian (Behind The Scene Goes To Season 3)
+https://cdn.jwplayer.com/manifests/ERmPcUAD.m3u8
+#EXTINF:-1,Cerita Angel (Behind The Scene Goes To Season 3)
+https://cdn.jwplayer.com/manifests/RFb3iAWg.m3u8
+#EXTINF:-1,Cerita Adi (Behind The Scene Goes To Season 3)
+https://cdn.jwplayer.com/manifests/U2zRrR3C.m3u8
+#EXTINF:-1,Cerita Bersama (Behind The Scene Goes To Season 3)
+https://cdn.jwplayer.com/manifests/zVHoyRiS.m3u8
+#EXTINF:-1,Paket Nyasar
+https://cdn.jwplayer.com/manifests/iw2gFUw6.m3u8
+#EXTINF:-1,Ditegur Kantor
+https://cdn.jwplayer.com/manifests/vHIgACKR.m3u8
+#EXTINF:-1,Calon Ayah
+https://cdn.jwplayer.com/manifests/qRar73X2.m3u8
+#EXTINF:-1,Trik Hemat Ala Angel
+https://cdn.jwplayer.com/manifests/VQ6hMAxC.m3u8
+#EXTINF:-1,Lemari Display
+https://cdn.jwplayer.com/manifests/x1PlbZ35.m3u8
+#EXTINF:-1,Alis Mata Angel
+https://cdn.jwplayer.com/manifests/VduYeXUD.m3u8
+#EXTINF:-1,Dendam Dari Masa Lalu : Edi Brokoli, Griff Pradapa (Murid Sd Ngerjain Guru)
+https://cdn.jwplayer.com/manifests/WY0mDJol.m3u8
+#EXTINF:-1,Pak Guru Tersayang
+https://cdn.jwplayer.com/manifests/S14Bh5wz.m3u8
+#EXTINF:-1,Promosi Bastian : Anneke Jodi
+https://cdn.jwplayer.com/manifests/84pwZ2VJ.m3u8
+#EXTINF:-1,Jujur Dong : Anneke Jodi
+https://cdn.jwplayer.com/manifests/q2962Dpt.m3u8
+#EXTINF:-1,Where'S My Ring
+https://cdn.jwplayer.com/manifests/lo6mUXvD.m3u8
+#EXTINF:-1,Sampahmu Bukan Sampahku : Tarzan
+https://cdn.jwplayer.com/manifests/pjY5jk2U.m3u8
+#EXTINF:-1,Pesta Ultah (Oke) : August Melasz, Griff Pradapa
+https://cdn.jwplayer.com/manifests/tkk9Hgpn.m3u8
+#EXTINF:-1,Spooky Traveller
+https://cdn.jwplayer.com/manifests/KM7OA9Hn.m3u8
+#EXTINF:-1,Ada Apa Dengan Ucup
+None
+#EXTINF:-1,Ada Apa Dengan Ucup
+https://cdn.jwplayer.com/manifests/1sEomXq4.m3u8
+#EXTINF:-1,Tangan Adi Sakit
+https://cdn.jwplayer.com/manifests/hUksJneY.m3u8
+#EXTINF:-1,Candle Light Supper
+https://cdn.jwplayer.com/manifests/vyfCBoqA.m3u8
+#EXTINF:-1,Bugar Bikin Segar : Griff Pradapa
+https://cdn.jwplayer.com/manifests/yy1yf5wB.m3u8
+#EXTINF:-1,Susahnya Niat Batal : Griff Pradapa
+None
+#EXTINF:-1,Jujur Enak Tidur
+https://cdn.jwplayer.com/manifests/neq5Kxpy.m3u8
+#EXTINF:-1,Pay Day Bt Tarzan
+https://cdn.jwplayer.com/manifests/aodIgISI.m3u8
+#EXTINF:-1,Pamer Kebaikan
+https://cdn.jwplayer.com/manifests/J7B0H60d.m3u8
+#EXTINF:-1,Berbagi Kebaikan
+https://cdn.jwplayer.com/manifests/A1AhzeUk.m3u8
+#EXTINF:-1,Swadaya Buka Puasa : Tarzan
+https://cdn.jwplayer.com/manifests/JaVEoLR9.m3u8
+#EXTINF:-1,Puasa Jangan Gosip : Dinda Kanya
+https://cdn.jwplayer.com/manifests/buIKweJv.m3u8
+#EXTINF:-1,My Name Is Not Adi
+https://cdn.jwplayer.com/manifests/3wnXbrFf.m3u8
+#EXTINF:-1,Pacaran Lagi
+https://cdn.jwplayer.com/manifests/DAmye0Sy.m3u8
+#EXTINF:-1,Mudik Impian
+https://cdn.jwplayer.com/manifests/xFKP3yY9.m3u8
+#EXTINF:-1,Spc Idul Fitri (Diskon Maaf): Tarzan
+https://cdn.jwplayer.com/manifests/pRCsOH84.m3u8
+#EXTINF:-1,Critics No More
+https://cdn.jwplayer.com/manifests/qTed1QzY.m3u8
+#EXTINF:-1,KDRT Jadi Masalah RT : Tarzan
+https://cdn.jwplayer.com/manifests/SePh2qQo.m3u8
+#EXTINF:-1,Old Bas, New Bas
+https://cdn.jwplayer.com/manifests/1HLNKIQQ.m3u8
+#EXTINF:-1,Kacau Tanpa Bintang
+https://cdn.jwplayer.com/manifests/D3zA7ooM.m3u8
+#EXTINF:-1,Tukar Sepatu, Tukar Mobil
+https://cdn.jwplayer.com/manifests/VvfAqEWX.m3u8
+#EXTINF:-1,Lupa - Lupa Ingat
+https://cdn.jwplayer.com/manifests/oQIiwocB.m3u8
+#EXTINF:-1,Cinta Tapi Jauh
+https://cdn.jwplayer.com/manifests/pRgza6c2.m3u8
+#EXTINF:-1,Order Tapi Maksa
+https://cdn.jwplayer.com/manifests/2i8deqGG.m3u8
+#EXTINF:-1,Not A Super Woman
+https://cdn.jwplayer.com/manifests/AitBdudJ.m3u8
+#EXTINF:-1,Style Stealer
+https://cdn.jwplayer.com/manifests/e5i4M5TM.m3u8
+#EXTINF:-1,Kembalinya Kamila
+https://cdn.jwplayer.com/manifests/myuFaZ4n.m3u8
+#EXTINF:-1,Jangan Kurangi Cinta & Uang Belanja
+https://cdn.jwplayer.com/manifests/TBFCKglQ.m3u8
+#EXTINF:-1,Titip Burung, Titip Masalah
+https://cdn.jwplayer.com/manifests/iaZGsqAl.m3u8
+#EXTINF:-1,The Coffee Story
+https://cdn.jwplayer.com/manifests/WdNhodIi.m3u8
+#EXTINF:-1,Salon Yakuza
+https://cdn.jwplayer.com/manifests/yUC0EHdr.m3u8
+#EXTINF:-1,Mancing Keributan
+https://cdn.jwplayer.com/manifests/Jw8TvBCo.m3u8
+#EXTINF:-1,Boot
+https://cdn.jwplayer.com/manifests/IhVVZdAZ.m3u8
+#EXTINF:-1,Si Jago Masak
+https://cdn.jwplayer.com/manifests/opTz1yFC.m3u8
+#EXTINF:-1,Shoe Bussines Shoe-Gether
+https://cdn.jwplayer.com/manifests/Vc9WSoCb.m3u8
+#EXTINF:-1,Lomba Agustusan [Spc. Kemerdekaan]
+https://cdn.jwplayer.com/manifests/SFVyFuz4.m3u8
+#EXTINF:-1,Pijat Refleksi
+https://cdn.jwplayer.com/manifests/g15FsORQ.m3u8
+#EXTINF:-1,Romansa Masa Lalu
+https://cdn.jwplayer.com/manifests/7yn8PBrw.m3u8
+#EXTINF:-1,To Do List
+https://cdn.jwplayer.com/manifests/f66Mh30N.m3u8
+#EXTINF:-1,Nightmare Di Rumah Adi
+https://cdn.jwplayer.com/manifests/bn23HljK.m3u8
+#EXTINF:-1,Basket & Pride : Tarzan & Denny Sumargo
+https://cdn.jwplayer.com/manifests/yPN42vAY.m3u8
+#EXTINF:-1,Fixed It
+https://cdn.jwplayer.com/manifests/tpG0JXC7.m3u8
+#EXTINF:-1,Hot, Spicy & Macho
+https://cdn.jwplayer.com/manifests/9vCr3BPa.m3u8
+#EXTINF:-1,Dipaksa Bebas : Tarzan
+https://cdn.jwplayer.com/manifests/CGSfGDqN.m3u8
+#EXTINF:-1,Tania Ingin Jadi Girlband : Shania JKT48
+https://cdn.jwplayer.com/manifests/cYn2oGev.m3u8
+#EXTINF:-1,Inframe
+https://cdn.jwplayer.com/manifests/limnSnXy.m3u8
+#EXTINF:-1,Pemilihan Ketua RT : Tarzan
+https://cdn.jwplayer.com/manifests/qRRt9MuF.m3u8
+#EXTINF:-1,Partner Pameran
+https://cdn.jwplayer.com/manifests/oXLGbtrM.m3u8
+#EXTINF:-1,Telat Ke Undangan
+https://cdn.jwplayer.com/manifests/2B00JKTI.m3u8
+#EXTINF:-1,Pindah Ke Jerman
+https://cdn.jwplayer.com/manifests/RYfkGEcg.m3u8
+#EXTINF:-1,Sekutu Buat Adi : Eva Celia
+https://cdn.jwplayer.com/manifests/Bw0VaG46.m3u8
+#EXTINF:-1,Mendekatkan Yang Jauh, Menjauhkan Yang Dekat
+https://cdn.jwplayer.com/manifests/8WL89tJL.m3u8
+#EXTINF:-1,Gowes Sepeda
+https://cdn.jwplayer.com/manifests/g8xBnIWI.m3u8
+#EXTINF:-1,Ondel-Ondel
+https://cdn.jwplayer.com/manifests/3DnfpV37.m3u8
+#EXTINF:-1,Bon Jovi I'll Be There For You : Poppy Sovia
+https://cdn.jwplayer.com/manifests/gZiOjk3K.m3u8
+#EXTINF:-1,Who's That Girl?
+https://cdn.jwplayer.com/manifests/qsJHlSPi.m3u8
+#EXTINF:-1,Wejangan : Rio Dewanto
+https://cdn.jwplayer.com/manifests/m1XCbaem.m3u8
+#EXTINF:-1,Jenggotku Andalanku
+https://cdn.jwplayer.com/manifests/V403Fqbj.m3u8
+#EXTINF:-1,Arti Mimpi
+https://cdn.jwplayer.com/manifests/ae5De6sQ.m3u8
+#EXTINF:-1,Dress Code
+https://cdn.jwplayer.com/manifests/mcGAxils.m3u8
+#EXTINF:-1,The Best Husband Ever
+https://cdn.jwplayer.com/manifests/6xgSGGP1.m3u8
+#EXTINF:-1,Resep Sehat Tapi Sakit
+https://cdn.jwplayer.com/manifests/i1D7r0st.m3u8
+#EXTINF:-1,Adi Menghilang
+https://cdn.jwplayer.com/manifests/ZPiQjO4K.m3u8
+#EXTINF:-1,Mom Vs Daughter : Tieke Priyatnakusumah; Shania JKT48
+https://cdn.jwplayer.com/manifests/A2duV7bt.m3u8
+#EXTINF:-1,Single Unhappy : Jill Gladys
+https://cdn.jwplayer.com/manifests/PXqtHLZg.m3u8
+#EXTINF:-1,Panas Luar Dalam
+https://cdn.jwplayer.com/manifests/8zxRWwUI.m3u8
+#EXTINF:-1,Everything I Do, I'll Do It For You
+https://cdn.jwplayer.com/manifests/SnybDtZK.m3u8
+#EXTINF:-1,Sampah Biang Masalah : Tarzan
+https://cdn.jwplayer.com/manifests/UZYO55zM.m3u8
+#EXTINF:-1,Diam-Diam Suka : Shania JKT48 & Brandon Salim
+https://cdn.jwplayer.com/manifests/B4WNugWl.m3u8
+#EXTINF:-1,I Need You Much More
+https://cdn.jwplayer.com/manifests/SYJ6yQJE.m3u8
+#EXTINF:-1,Tamu Dari Negeri Seberang : Mario Irwinsyah
+https://cdn.jwplayer.com/manifests/pR9VG9xc.m3u8
+#EXTINF:-1,Death Inside
+https://cdn.jwplayer.com/manifests/eqDjlxEi.m3u8
+#EXTINF:-1,Anti Aging
+https://cdn.jwplayer.com/manifests/0aruI6a3.m3u8
+#EXTINF:-1,Bye Bye Kolesterol : Anneke Jodi
+https://cdn.jwplayer.com/manifests/7JjZRKpV.m3u8
+#EXTINF:-1,Borgol : Anneke Jodi
+https://cdn.jwplayer.com/manifests/LcYzjSOf.m3u8
+#EXTINF:-1,Tugas Tania, Bastian Demam : Shania JKT48
+https://cdn.jwplayer.com/manifests/bDVpFeb9.m3u8
+#EXTINF:-1,Barber Kagetan : Denny Sumargo, Tarzan
+https://cdn.jwplayer.com/manifests/cHXDXRsL.m3u8
+#EXTINF:-1,Miss You Like Crazy
+https://cdn.jwplayer.com/manifests/lbNNC4ob.m3u8
+#EXTINF:-1,Stop Bullying : Griff Pradapa
+https://cdn.jwplayer.com/manifests/vODIAvz8.m3u8
+#EXTINF:-1,Cinta Tania : Shania JKT48, Brandon Salim
+https://cdn.jwplayer.com/manifests/AZW5PttB.m3u8
+#EXTINF:-1,Untung Ada Ibun : Tike Priatnakusumah
+https://cdn.jwplayer.com/manifests/9gUqCRNf.m3u8
+#EXTINF:-1,Keris Patah
+https://cdn.jwplayer.com/manifests/unC3oDLd.m3u8
+#EXTINF:-1,Dear Mr. Hair Grey : Denny Sumargo
+https://cdn.jwplayer.com/manifests/UQNjHZ0Q.m3u8
+#EXTINF:-1,Back To 80's : Denny Malik
+https://cdn.jwplayer.com/manifests/1vb6KCAG.m3u8
+#EXTINF:-1,The Intern : Shania JKT48
+https://cdn.jwplayer.com/manifests/bn2usTsT.m3u8
+#EXTINF:-1,Undangan Syukuran : Tarzan
+https://cdn.jwplayer.com/manifests/vKM9WBPl.m3u8
+#EXTINF:-1,Tabrak Lari
+https://cdn.jwplayer.com/manifests/ysERZ3Wi.m3u8
+#EXTINF:-1,Anglo
+https://cdn.jwplayer.com/manifests/LMK2ug9g.m3u8
+#EXTINF:-1,Nobar : Shania JKT48, Brandon Salim
+https://cdn.jwplayer.com/manifests/R8QwgL2S.m3u8
+#EXTINF:-1,Oleh-Oleh Angel
+https://cdn.jwplayer.com/manifests/CjdRk1ZG.m3u8
+#EXTINF:-1,Potongan Pertama : Denny Sumargo
+https://cdn.jwplayer.com/manifests/rZp55L0m.m3u8
+#EXTINF:-1,Salah Order
+https://cdn.jwplayer.com/manifests/vEiDsdKr.m3u8
+#EXTINF:-1,Please Say No
+https://cdn.jwplayer.com/manifests/Cdo6yQ22.m3u8
+#EXTINF:-1,Makelar Salon : Denny Sumargo
+https://cdn.jwplayer.com/manifests/4iITkzCy.m3u8
+#EXTINF:-1,Kunci Mobil Hilang
+https://cdn.jwplayer.com/manifests/05Cd3RuE.m3u8
+#EXTINF:-1,Adi Sakit
+https://cdn.jwplayer.com/manifests/q3alO7fG.m3u8
+#EXTINF:-1,Hemat Air
+https://cdn.jwplayer.com/manifests/5HJ7GLjO.m3u8
+#EXTINF:-1,Main Petak Umpet
+https://cdn.jwplayer.com/manifests/tq7Mp6Bp.m3u8
+#EXTINF:-1,Berpacu Dalam Emosi : Tarzan
+https://cdn.jwplayer.com/manifests/lo0J0dyB.m3u8
+#EXTINF:-1,Konsisten
+https://cdn.jwplayer.com/manifests/3teNoG7F.m3u8
+#EXTINF:-1,Mysterious Doll Part 2 : Tarzan
+https://cdn.jwplayer.com/manifests/XSo7CHBW.m3u8
+#EXTINF:-1,All About Rujak
+https://cdn.jwplayer.com/manifests/53KKEp4k.m3u8
+#EXTINF:-1,Sang Inspirasi
+https://cdn.jwplayer.com/manifests/ue3J5oR0.m3u8
+#EXTINF:-1,Romantically Challenged
+https://cdn.jwplayer.com/manifests/3vHi5cM7.m3u8
+#EXTINF:-1,Korban Modus
+https://cdn.jwplayer.com/manifests/pZCGne8e.m3u8
+#EXTINF:-1,Rahasiaku Rahasiamu
+https://cdn.jwplayer.com/manifests/ko73Tyxe.m3u8
+#EXTINF:-1,Basket Re-Match : Tarzan, Denny Sumargo, Brandon Salim
+https://cdn.jwplayer.com/manifests/Ht1moJST.m3u8
+#EXTINF:-1,Les Mengeles
+https://cdn.jwplayer.com/manifests/1mqn40fR.m3u8
+#EXTINF:-1,Goodbye Ucup : Tarzan
+https://cdn.jwplayer.com/manifests/k4kEIMZ2.m3u8
+#EXTINF:-1,Terjebak Di Viper Room
+https://cdn.jwplayer.com/manifests/pCJ1Wipl.m3u8
+#EXTINF:-1,On Time Dong!
+https://cdn.jwplayer.com/manifests/hHVMX9xz.m3u8
+#EXTINF:-1,Si Jahil : Tarzan, Denny Sumargo
+https://cdn.jwplayer.com/manifests/2jcrCoEw.m3u8
+#EXTINF:-1,Genteng Bocor
+https://cdn.jwplayer.com/manifests/4FmmKOpb.m3u8
+#EXTINF:-1,Duel Otak: Griff Pradapa
+https://cdn.jwplayer.com/manifests/VV5rCcxG.m3u8
+#EXTINF:-1,Salah Bantal
+https://cdn.jwplayer.com/manifests/x6yBM98s.m3u8
+#EXTINF:-1,Senior Junior: Rio Dewanto
+https://cdn.jwplayer.com/manifests/NfZpvNWS.m3u8
+#EXTINF:-1,Midnight Escape
+https://cdn.jwplayer.com/manifests/Ruz3gIWL.m3u8
+#EXTINF:-1,Demi Bola
+https://cdn.jwplayer.com/manifests/JlsXNgG6.m3u8
+#EXTINF:-1,Gadai Berantai : Tarzan; Denny Sumargo
+https://cdn.jwplayer.com/manifests/uDWRXvJk.m3u8
+#EXTINF:-1,Detektif Adibas : Tarzan; Tike Priyatna
+https://cdn.jwplayer.com/manifests/LSN3Kr9Z.m3u8
+#EXTINF:-1,Spesial Natal : Tukar Kado : Denny Sumargo
+https://cdn.jwplayer.com/manifests/ytaZdi59.m3u8
+#EXTINF:-1,Gara-Gara Mobil
+https://cdn.jwplayer.com/manifests/WPS0Rj24.m3u8
+#EXTINF:-1,Gara-Gara Freestyle Glider
+https://cdn.jwplayer.com/manifests/Sh34sOzE.m3u8
+#EXTINF:-1,Komunikasi Gagal : Tarzan; Denny Sumargo; Brandon Salim
+https://cdn.jwplayer.com/manifests/DavqGp0X.m3u8
+#EXTINF:-1,Terjebak Di Lift Part 1
+https://cdn.jwplayer.com/manifests/H8fT7vP0.m3u8
+#EXTINF:-1,Terjebak Di Lift Part 2
+https://cdn.jwplayer.com/manifests/JDMhj4Rz.m3u8
+#EXTINF:-1,Time Capsule / 2nd Anniversary
+https://cdn.jwplayer.com/manifests/aKl95TFE.m3u8
+#EXTINF:-1,No Internet
+https://cdn.jwplayer.com/manifests/9dLu4Ecl.m3u8
+#EXTINF:-1,Mati Lampu: Tarzan, Brandon Salim
+https://cdn.jwplayer.com/manifests/IsZ6aj1I.m3u8
+#EXTINF:-1,On Time (Stop Watch): Shania JKT48
+https://cdn.jwplayer.com/manifests/IQfZyI5p.m3u8
+#EXTINF:-1,Kamera Tua: Tarzan
+https://cdn.jwplayer.com/manifests/W8QaUXrm.m3u8
+#EXTINF:-1,Saingan Bobby: Shania JKT48, Brandon Salim, Boy William
+https://cdn.jwplayer.com/manifests/b3TGHmYX.m3u8
+#EXTINF:-1,Bastian Kena PHK?
+https://cdn.jwplayer.com/manifests/aufo56E1.m3u8
+#EXTINF:-1,Expired
+https://cdn.jwplayer.com/manifests/U3ZnH4bi.m3u8
+#EXTINF:-1,Susilo Award : Tarzan
+https://cdn.jwplayer.com/manifests/coIlZ8Xy.m3u8
+#EXTINF:-1,My Responsibility
+https://cdn.jwplayer.com/manifests/bgxxNV0W.m3u8
+#EXTINF:-1,Ketitipan Barang : Denny Sumargo
+https://cdn.jwplayer.com/manifests/2I5DseiW.m3u8
+#EXTINF:-1,Asistenku Mertuamu : Tarzan, Denny Sumargo
+https://cdn.jwplayer.com/manifests/LA0ka0cw.m3u8
+#EXTINF:-1,Ibun Vs ART : Tikeu Priyatna
+https://cdn.jwplayer.com/manifests/u66SMn51.m3u8
+#EXTINF:-1,Pecat ART: Denny Sumargo
+https://cdn.jwplayer.com/manifests/fgPkrzjJ.m3u8
+#EXTINF:-1,Miss Business
+https://cdn.jwplayer.com/manifests/0mlcL362.m3u8
+#EXTINF:-1,Gara Gara Skateboard
+https://cdn.jwplayer.com/manifests/KR8VNfEg.m3u8
+#EXTINF:-1,Terjebak Keributan
+https://cdn.jwplayer.com/manifests/YKjQAsum.m3u8
+#EXTINF:-1,Let's Party
+https://cdn.jwplayer.com/manifests/TH7ewcgV.m3u8
+#EXTINF:-1,Gila Bieber: Shania JKT48, Brandon Salim
+https://cdn.jwplayer.com/manifests/NjtBuF4S.m3u8
+#EXTINF:-1,Tike Priyatnakusuma
+https://cdn.jwplayer.com/manifests/qIrxPUh0.m3u8
+#EXTINF:-1,Susah Mau Tidur: Tarzan, Shania JKT48
+https://cdn.jwplayer.com/manifests/mcC3iWBm.m3u8
+#EXTINF:-1,Dilema: Tarzan
+https://cdn.jwplayer.com/manifests/57nxhD86.m3u8
+#EXTINF:-1,Antara Sewa Kamar Dan Calon Ipar: Brandon Salim, Ganindra Bimo, Andrea Dian
+https://cdn.jwplayer.com/manifests/2AQEifCJ.m3u8
+#EXTINF:-1,Spc Imlek: Tarzan, Shania JKT48
+https://cdn.jwplayer.com/manifests/tj7SlvcA.m3u8
+#EXTINF:-1,PS4 I Love You: Brandon Salim
+https://cdn.jwplayer.com/manifests/NMUqAZut.m3u8
+#EXTINF:-1,Band Dadakan: Denny Sumargo, Tarzan, Shania JKT48
+https://cdn.jwplayer.com/manifests/mcfyohBK.m3u8
+#EXTINF:-1,Akhirnya Upgrade Juga
+https://cdn.jwplayer.com/manifests/L3mYTeLS.m3u8
+#EXTINF:-1,Perjodohan Kara: Poppy Sovia, Hessel Steven
+https://cdn.jwplayer.com/manifests/DezVqCIn.m3u8
+#EXTINF:-1,Dear My Love
+https://cdn.jwplayer.com/manifests/xumvef1F.m3u8
+#EXTINF:-1,Salah Sedot
+https://cdn.jwplayer.com/manifests/iRn3cnCa.m3u8
+#EXTINF:-1,Demam Mancing
+https://cdn.jwplayer.com/manifests/rqkbMtVJ.m3u8
+#EXTINF:-1,Adi Jadi Wartawan
+https://cdn.jwplayer.com/manifests/liqyuXw0.m3u8
+#EXTINF:-1,Ngidam Masa Gitu
+https://cdn.jwplayer.com/manifests/Amsb1u80.m3u8
+#EXTINF:-1,Grebek Besek: Tarzan, Denny Sumargo
+https://cdn.jwplayer.com/manifests/gk75kuLk.m3u8
+#EXTINF:-1,Maling Kompleks: Denny Sumargo
+https://cdn.jwplayer.com/manifests/QeUGxEOW.m3u8
+#EXTINF:-1,Bisul Bastian: Tarzan
+https://cdn.jwplayer.com/manifests/FKz03BQd.m3u8
+#EXTINF:-1,Ouija Boards
+https://cdn.jwplayer.com/manifests/bGdiul7Q.m3u8
+#EXTINF:-1,Ultah Kabisat: Tarzan
+https://cdn.jwplayer.com/manifests/DOSwpnME.m3u8
+#EXTINF:-1,Gunting Koncian Charles: Denny Sumargo
+https://cdn.jwplayer.com/manifests/D0iKnXlf.m3u8
+#EXTINF:-1,Dharma Pria: Tarzan
+https://cdn.jwplayer.com/manifests/4Ijx70Z8.m3u8
+#EXTINF:-1,Chrl's Pomade : Tarzan, Denny Sumargo, Brandon Salim
+https://cdn.jwplayer.com/manifests/KMuOCgkn.m3u8
+#EXTINF:-1,Gitar Listrik: Poppy Sovia
+https://cdn.jwplayer.com/manifests/DxgCsj7W.m3u8
+#EXTINF:-1,Malam Teater: Risdo Alaro
+https://cdn.jwplayer.com/manifests/veZhXqh8.m3u8
+#EXTINF:-1,Sofa Surprise
+https://cdn.jwplayer.com/manifests/ApX477kY.m3u8
+#EXTINF:-1,Lost & Found: Shania JKT48
+https://cdn.jwplayer.com/manifests/X3nJ69RQ.m3u8
+#EXTINF:-1,Tragedi Kuping Adi: Denny Sumargo
+https://cdn.jwplayer.com/manifests/yuALx1JO.m3u8
+#EXTINF:-1,Ribet Pilih Baju
+https://cdn.jwplayer.com/manifests/1U7LzrKG.m3u8
+#EXTINF:-1,Seblak: Tarzan
+https://cdn.jwplayer.com/manifests/ysGTAQ6c.m3u8
+#EXTINF:-1,You Complete Me: Tike Priatnakusumah
+https://cdn.jwplayer.com/manifests/OrPzQ5Td.m3u8
+#EXTINF:-1,Gempa: Tarzan, Shania JKT48
+https://cdn.jwplayer.com/manifests/nlVqTAGd.m3u8
+#EXTINF:-1,What'S In The Name: Tarzan
+https://cdn.jwplayer.com/manifests/mVJ2i2Ag.m3u8
+#EXTINF:-1,Bahasaku Bahasamu: Brandon Salim
+https://cdn.jwplayer.com/manifests/9K73PU9s.m3u8
+#EXTINF:-1,Liburan Rempong: Tike Priatnakusumah, Shania JKT48
+https://cdn.jwplayer.com/manifests/N9Bd10lh.m3u8
+#EXTINF:-1,Harkat Dan Martabak: Tarzan, Tike Priatnakusumah
+https://cdn.jwplayer.com/manifests/d2LB947b.m3u8
+#EXTINF:-1,Sepupu Bintang: Keisha Alvaro
+https://cdn.jwplayer.com/manifests/pqrUK8Ue.m3u8
+#EXTINF:-1,Table Manner: Ryan J. Karsten
+https://cdn.jwplayer.com/manifests/md78mfNe.m3u8
+#EXTINF:-1,Would You Like To Dance?
+https://cdn.jwplayer.com/manifests/CmoRIZ6Q.m3u8
+#EXTINF:-1,Mantan Saingan Ibun: Tike Priatnakusumah, Gesata Stella
+https://cdn.jwplayer.com/manifests/yJT89rYc.m3u8
+#EXTINF:-1,Tanah Warisan Ucup
+https://cdn.jwplayer.com/manifests/JgKEhacT.m3u8
+#EXTINF:-1,Will You Marry Me?: Aubrey Beer, Arifin Putra
+https://cdn.jwplayer.com/manifests/q44MDRJe.m3u8
+#EXTINF:-1,Rebutan Barang: Brandon Salim
+https://cdn.jwplayer.com/manifests/JUI5nNlT.m3u8
+#EXTINF:-1,Masterpiss
+https://cdn.jwplayer.com/manifests/OQ0Eoyv4.m3u8
+#EXTINF:-1,Asuransi
+https://cdn.jwplayer.com/manifests/IBn2B2J1.m3u8
+#EXTINF:-1,Misteri Hilangnya Uang Sumbangan : Tarzan
+https://cdn.jwplayer.com/manifests/Y9Kl31Xb.m3u8
+#EXTINF:-1,Perang Laser
+https://cdn.jwplayer.com/manifests/DIHtBhSs.m3u8
+#EXTINF:-1,Ga Pa Pa Jadi Masalah
+https://cdn.jwplayer.com/manifests/rICZHvYx.m3u8
+#EXTINF:-1,Kompensasi Renovasi
+https://cdn.jwplayer.com/manifests/pKK3C7gL.m3u8
+#EXTINF:-1,Nazar Jual Lukisan
+https://cdn.jwplayer.com/manifests/wHRxWqvW.m3u8
+#EXTINF:-1,Bastian Fobia Iguana
+https://cdn.jwplayer.com/manifests/5TPmhdhL.m3u8
+#EXTINF:-1,Robin Returns: Keisha Alvaro
+https://cdn.jwplayer.com/manifests/9lNVGvKk.m3u8
+#EXTINF:-1,Emansipasi Pria: Denny Sumargo, Tarzan
+None
+#EXTINF:-1,Gagal Makan Bareng
+https://cdn.jwplayer.com/manifests/b2xw9PqR.m3u8
+#EXTINF:-1,Kamera Mas Adi
+https://cdn.jwplayer.com/manifests/M1xoJq77.m3u8
+#EXTINF:-1,Harta Gono-Gini
+https://cdn.jwplayer.com/manifests/zNsWJzdn.m3u8
+#EXTINF:-1,Maling
+https://cdn.jwplayer.com/manifests/UJ3gKCnk.m3u8
+#EXTINF:-1,Bastian Berikan Kejutan Ke Bintang
+https://cdn.jwplayer.com/manifests/AtNXBe7D.m3u8
+#EXTINF:-1,Angel Jadi Model
+https://cdn.jwplayer.com/manifests/r69eE9jn.m3u8
+#EXTINF:-1,Demam JKT48: Shania, Nabilah, Melody, Veranda JKT48
+https://cdn.jwplayer.com/manifests/S0uyvIEY.m3u8
+#EXTINF:-1,Kisruh Koran
+https://cdn.jwplayer.com/manifests/NJwp2RUI.m3u8
+#EXTINF:-1,Tokek Where Are You?
+None
+#EXTINF:-1,Pangkas Potong
+https://cdn.jwplayer.com/manifests/4GDaPmnA.m3u8
+#EXTINF:-1,Kasih Yang Tak Dirindukandia
+None
+#EXTINF:-1,Dia Lagi Dia Lagi
+https://cdn.jwplayer.com/manifests/yuDbDqVH.m3u8
+#EXTINF:-1,Gara Gara Taruhan
+https://cdn.jwplayer.com/manifests/Grcg5V5p.m3u8
+#EXTINF:-1,Rusak Kok Dijual?: Tarzan
+https://cdn.jwplayer.com/manifests/y45OoXY2.m3u8
+#EXTINF:-1,Tiket Bioskop: Tarzan, Brandon Salim, Twindy Rarasati
+https://cdn.jwplayer.com/manifests/zHiGlcVx.m3u8
+#EXTINF:-1,Bastian Belikan Coklat Untuk Bintang
+https://cdn.jwplayer.com/manifests/zLA0C5TR.m3u8
+#EXTINF:-1,Bastian Ngambek Gak Dibikinin Sarapan
+https://cdn.jwplayer.com/manifests/o5Yb9eia.m3u8
+#EXTINF:-1,Mentor: Tarzan
+https://cdn.jwplayer.com/manifests/CyrC5hR8.m3u8
+#EXTINF:-1,Nicko Dan Nina : Brandon Salim, Ganindra Bimo, Andrea Dian
+https://cdn.jwplayer.com/manifests/R5j46fBB.m3u8
+#EXTINF:-1,Distraksi Kehidupan: Tarzan, Brandon Salim
+https://cdn.jwplayer.com/manifests/XnxibQze.m3u8
+#EXTINF:-1,Sepatu Cinderella
+https://cdn.jwplayer.com/manifests/tuCJWQAK.m3u8
+#EXTINF:-1,Gagal Lagi: Poppy Sovia, David John Schaap
+https://cdn.jwplayer.com/manifests/ZmEqUikV.m3u8
+#EXTINF:-1,Kekunci Di Kamar Mandi: Tarzan
+https://cdn.jwplayer.com/manifests/UQQp18Ta.m3u8
+#EXTINF:-1,Penunggu Rumah Kosong
+https://cdn.jwplayer.com/manifests/KJNOPf61.m3u8
+#EXTINF:-1,NET 3.0 Ica 2016: Brandon Salim
+https://cdn.jwplayer.com/manifests/uc05MEYb.m3u8
+#EXTINF:-1,Tekanan Darah: Tarzan
+https://cdn.jwplayer.com/manifests/0rUXvPfy.m3u8
+#EXTINF:-1,Bobby Kabur: Brandon Salim
+https://cdn.jwplayer.com/manifests/PcAuAM91.m3u8
+#EXTINF:-1,Gagal Ngirit
+https://cdn.jwplayer.com/manifests/dpBm1Yb0.m3u8
+#EXTINF:-1,Foto Penampakan: Tarzan
+https://cdn.jwplayer.com/manifests/LzHC6BiP.m3u8
+#EXTINF:-1,Kurang Piknik
+https://cdn.jwplayer.com/manifests/GdeEhfWS.m3u8
+#EXTINF:-1,Adi Bastian Sakit
+https://cdn.jwplayer.com/manifests/mO4liAUE.m3u8
+#EXTINF:-1,Burung Pak RT: Tarzan, Shania JKT48
+https://cdn.jwplayer.com/manifests/qdSHVoJf.m3u8
+#EXTINF:-1,HP Angel: Shania JKT48
+https://cdn.jwplayer.com/manifests/3tBnMAzk.m3u8
+#EXTINF:-1,Kaburnya Mamat: Tarzan, Griff Pradapa
+https://cdn.jwplayer.com/manifests/UmHahSyI.m3u8
+#EXTINF:-1,Takjil Ala Bintang: Tarzan
+https://cdn.jwplayer.com/manifests/GU5i1nxS.m3u8
+#EXTINF:-1,Teman Sahur Adi: Tarzan, Denny Sumargo
+https://cdn.jwplayer.com/manifests/4jnI2sow.m3u8
+#EXTINF:-1,Surprise Ibun: Tike Priyatnakusumah, Brandon Salim, Shania JKT48
+https://cdn.jwplayer.com/manifests/hd99Mcwp.m3u8
+#EXTINF:-1,Nasi Kotak Misterius: Tarzan
+https://cdn.jwplayer.com/manifests/aL9p5324.m3u8
+#EXTINF:-1,Hari Penuh Godaan
+https://cdn.jwplayer.com/manifests/vpuruRJ2.m3u8
+#EXTINF:-1,Cinta Pertama Bukan Cinta Terakhir: Brandon Salim, Shania JKT48
+https://cdn.jwplayer.com/manifests/7f3jKKsv.m3u8
+#EXTINF:-1,Tetangga Ideal: Tarzan
+https://cdn.jwplayer.com/manifests/fVEvr1Nk.m3u8
+#EXTINF:-1,Secret Keeper: Denny Sumargo
+https://cdn.jwplayer.com/manifests/ZfUVoPGo.m3u8
+#EXTINF:-1,Kejutan Untuk Bobby: Shania JKT48, Brandon Salim
+https://cdn.jwplayer.com/manifests/Snxl18B0.m3u8
+#EXTINF:-1,Gank Arisan Clara: Aubry Beer
+https://cdn.jwplayer.com/manifests/ZYJ7zHQm.m3u8
+#EXTINF:-1,Bukber Ribet: Tarzan
+https://cdn.jwplayer.com/manifests/5aLSdg5i.m3u8
+#EXTINF:-1,Baju Lebaran Kelebaran
+https://cdn.jwplayer.com/manifests/8VzDQb3c.m3u8
+#EXTINF:-1,Kue Lebaran: Tarzan
+https://cdn.jwplayer.com/manifests/ob5oV1Ra.m3u8
+#EXTINF:-1,THR: Tarzan
+https://cdn.jwplayer.com/manifests/MErTntMA.m3u8
+#EXTINF:-1,Cinta Beda Usia: Tarzan
+https://cdn.jwplayer.com/manifests/OHAvqdkt.m3u8
+#EXTINF:-1,Bukan Bintang Biasa: Aubry Beer
+https://cdn.jwplayer.com/manifests/Zqqz17t6.m3u8
+#EXTINF:-1,Tamu Tak Diundang: Candil, Nelly Carey
+https://cdn.jwplayer.com/manifests/Itn7cVOe.m3u8
+#EXTINF:-1,Parcel Lebaran: Tarzan
+https://cdn.jwplayer.com/manifests/Bri3yylY.m3u8
+#EXTINF:-1,Spc Idul Fitri (Amplop Uang Ucup): Tarzan
+https://cdn.jwplayer.com/manifests/FSN078Zf.m3u8
+#EXTINF:-1,Spc Idul Fitri (Rebutan Open House): Tarzan
+https://cdn.jwplayer.com/manifests/Ftf5BGH2.m3u8
+#EXTINF:-1,Kue Berantai: Tarzan
+None
+#EXTINF:-1,Presentasi: Tarzan
+https://cdn.jwplayer.com/manifests/v70igtBb.m3u8
+#EXTINF:-1,Sumbangan Aspal: Tarzan
+https://cdn.jwplayer.com/manifests/oSFTIcLT.m3u8
+#EXTINF:-1,Air Super: Tarzan
+https://cdn.jwplayer.com/manifests/qo7sZjxI.m3u8
+#EXTINF:-1,Komedi Masa Gitu: Brandon Salim, Tarzan
+https://cdn.jwplayer.com/manifests/xdg2CvGh.m3u8
+#EXTINF:-1,Berpacu Dengan Bau: Tarzan
+https://cdn.jwplayer.com/manifests/dZgrmmvh.m3u8
+#EXTINF:-1,Kembalinya Nina Niko Part 1: Denny Sumargo, Ganindra Bimo, Andrea Dian
+https://cdn.jwplayer.com/manifests/D90z6p7I.m3u8
+#EXTINF:-1,Kembalinya Nina Niko Part 2: Denny Sumargo, Ganindra Bimo, Andrea Dian
+https://cdn.jwplayer.com/manifests/zZcmU77X.m3u8
+#EXTINF:-1,Kamera Baru Bastian: Brandon Salim
+https://cdn.jwplayer.com/manifests/ZbdNHaq5.m3u8
+#EXTINF:-1,Mencari Leluhur
+https://cdn.jwplayer.com/manifests/MsYH85IE.m3u8
+#EXTINF:-1,Action Figure/ Grow Up, Bas!: Soraya Haque
+https://cdn.jwplayer.com/manifests/VzqdCCmp.m3u8
+#EXTINF:-1,Lukisan Adi
+https://cdn.jwplayer.com/manifests/SzCM9fHh.m3u8
+#EXTINF:-1,Demam Pokemon: Brandon Salim
+https://cdn.jwplayer.com/manifests/89CjiPiP.m3u8
+#EXTINF:-1,Comblang Maksa Gitu: Poppy Sovia
+https://cdn.jwplayer.com/manifests/7wSaa166.m3u8
+#EXTINF:-1,Tahu Bulat Bagus: Tarzan
+https://cdn.jwplayer.com/manifests/GOgaRy1G.m3u8
+#EXTINF:-1,Penipu Kuis
+https://cdn.jwplayer.com/manifests/fg4BEjD9.m3u8
+#EXTINF:-1,Sumber Cerita: Tarzan
+https://cdn.jwplayer.com/manifests/4Id6N3pY.m3u8
+#EXTINF:-1,Film Terbakar: Brandon Salim
+https://cdn.jwplayer.com/manifests/L739BQaX.m3u8
+#EXTINF:-1,Putus Maksa Gitu: Poppy Sovia
+https://cdn.jwplayer.com/manifests/YLTVLmPM.m3u8
+#EXTINF:-1,Lukisan Misterius
+https://cdn.jwplayer.com/manifests/fIc75iuL.m3u8
+#EXTINF:-1,Tania Berubah: Brandon Salim, Shania JKT48
+https://cdn.jwplayer.com/manifests/JAT3rMEo.m3u8
+#EXTINF:-1,Laundry Kiloan: Tarzan
+https://cdn.jwplayer.com/manifests/Hap6N969.m3u8
+#EXTINF:-1,Fit And Proper Test: Tarzan, Shania JKT48
+https://cdn.jwplayer.com/manifests/5Hx2QfBE.m3u8
+#EXTINF:-1,Disayang Masa Gitu
+https://cdn.jwplayer.com/manifests/eoEH9t6E.m3u8
+#EXTINF:-1,Unfollow Back
+https://cdn.jwplayer.com/manifests/j8r22KAV.m3u8
+#EXTINF:-1,Mas Adi Dikejar Drone: Tarzan, Brandon Salim
+https://cdn.jwplayer.com/manifests/7t2gYPaC.m3u8
+#EXTINF:-1,Vlog Bastian
+https://cdn.jwplayer.com/manifests/0Lt3u90w.m3u8
+#EXTINF:-1,Enakan Kamu
+https://cdn.jwplayer.com/manifests/SQixpWW1.m3u8
+#EXTINF:-1,Lomba Bakiak (Spesial Kemerdekaan)
+https://cdn.jwplayer.com/manifests/0UnoS3L2.m3u8
+#EXTINF:-1,Bastian Kembali
+https://cdn.jwplayer.com/manifests/lGlyTFlF.m3u8
+#EXTINF:-1,Bastian Emosi (Ada Eps Selanjutnya)
+https://cdn.jwplayer.com/manifests/9keyHouf.m3u8
+#EXTINF:-1,Curhatan Angel Dan Bintang: Tarzan
+https://cdn.jwplayer.com/manifests/nwrRqpGr.m3u8
+#EXTINF:-1,Pak RT Tarzan Lagi Butuh Duit
+https://cdn.jwplayer.com/manifests/GZG2A5Td.m3u8
+#EXTINF:-1,Akhirnya Putus: Brandon Salim, Shania JKT48
+https://cdn.jwplayer.com/manifests/adp2EOJf.m3u8
+#EXTINF:-1,Maunya Tinggi
+https://cdn.jwplayer.com/manifests/2CyeOjbt.m3u8
+#EXTINF:-1,Inovasi Adi: Tarzan
+https://cdn.jwplayer.com/manifests/Ues23ZCE.m3u8
+#EXTINF:-1,Angel Diajak Kelas Yoga Di Studio Riri
+https://cdn.jwplayer.com/manifests/ldQJA7Vf.m3u8
+#EXTINF:-1,Ditelepon Pak RT: Tarzan, Denny Sumargo
+https://cdn.jwplayer.com/manifests/fsIqzTyH.m3u8
+#EXTINF:-1,Sabtu Bersama Adi: Tarzan
+https://cdn.jwplayer.com/manifests/HyMZGCnf.m3u8
+#EXTINF:-1,Jam Tua: Denny Sumargo, Tike Priatnakusumah
+https://cdn.jwplayer.com/manifests/7Y06sfqY.m3u8
+#EXTINF:-1,Virtual Reality
+https://cdn.jwplayer.com/manifests/ShWIG894.m3u8
+#EXTINF:-1,WO Bikin K.O: Denny Sumargo
+https://cdn.jwplayer.com/manifests/pLFyR2Wx.m3u8
+#EXTINF:-1,Gara-Gara Angel: Tarzan
+https://cdn.jwplayer.com/manifests/5t5VNdyE.m3u8
+#EXTINF:-1,Midlife Crisis: Tike Priatnakusumah
+https://cdn.jwplayer.com/manifests/jO4x4Uuv.m3u8
+#EXTINF:-1,Kacamata Baru Bastian: Tarzan
+https://cdn.jwplayer.com/manifests/K5p6OAdV.m3u8
+#EXTINF:-1,Hak Sepatu Cantik Bintang Patah
+https://cdn.jwplayer.com/manifests/Wbxs75gG.m3u8
+#EXTINF:-1,Kecelakaan Yang Direncanakan
+https://cdn.jwplayer.com/manifests/9FKDrAjc.m3u8
+#EXTINF:-1,Medical Checkup
+https://cdn.jwplayer.com/manifests/SGcOU24Y.m3u8
+#EXTINF:-1,Ganjil Genap
+https://cdn.jwplayer.com/manifests/IQ7xpwf3.m3u8
+#EXTINF:-1,Nagih Masa Gitu
+https://cdn.jwplayer.com/manifests/0Usr9gCe.m3u8
+#EXTINF:-1,Tragedi Botol Parfum
+https://cdn.jwplayer.com/manifests/iuaqyAzX.m3u8
+#EXTINF:-1,Taman Bacaan Bintang
+https://cdn.jwplayer.com/manifests/xG8BQDcL.m3u8
+#EXTINF:-1,Mampet Bikin Empet
+https://cdn.jwplayer.com/manifests/LTp3SSW3.m3u8
+#EXTINF:-1,Haluin (Cerita Horor Di Malam Halloween)
+https://cdn.jwplayer.com/manifests/mJCbwiKA.m3u8
+#EXTINF:-1,Adu Main Layangan
+https://cdn.jwplayer.com/manifests/vLBqUg88.m3u8
+#EXTINF:-1,Perebutan Gelar Master Of Begadang
+https://cdn.jwplayer.com/manifests/xhCoGPqK.m3u8
+#EXTINF:-1,Arisan Rempong: Tarzan
+https://cdn.jwplayer.com/manifests/hCTnCg74.m3u8
+#EXTINF:-1,Mas Adi Menagih Tagihan Bastian
+https://cdn.jwplayer.com/manifests/C7JHs16r.m3u8
+#EXTINF:-1,Montir Amatir
+https://cdn.jwplayer.com/manifests/hNwZsHrI.m3u8
+#EXTINF:-1,Pemberitahuan Kerja Bakti
+https://cdn.jwplayer.com/manifests/oSt1m6Ox.m3u8
+#EXTINF:-1,Belajar Bareng Pertolongan Pertama
+https://cdn.jwplayer.com/manifests/IuuqiIWd.m3u8
+#EXTINF:-1,Tawaran Kerja Pak Kepsek: Tarzan, Eddi Brokoli
+https://cdn.jwplayer.com/manifests/FVRCFr1z.m3u8
+#EXTINF:-1,Cari Fosil Masa Gitu: Tarzan
+https://cdn.jwplayer.com/manifests/GdIqsHoM.m3u8
+#EXTINF:-1,Paspor Dimana: Denny Sumargo
+https://cdn.jwplayer.com/manifests/npaRVCrc.m3u8
+#EXTINF:-1,Pacar Pertama Bastian
+https://cdn.jwplayer.com/manifests/sngsklTm.m3u8
+#EXTINF:-1,Jual Koleksi Pribadi
+https://cdn.jwplayer.com/manifests/1ow5MZkH.m3u8
+#EXTINF:-1,Bastian Gak Ada Kabar Bintang Khawatir
+https://cdn.jwplayer.com/manifests/tBsZOoqu.m3u8
+#EXTINF:-1,Gaji Angel
+https://cdn.jwplayer.com/manifests/Dg5do2CF.m3u8
+#EXTINF:-1,Iuran Tahun Baruan
+https://cdn.jwplayer.com/manifests/d1in79tr.m3u8
+#EXTINF:-1,Surprise Natal Untuk Levi (Spesial Natal): Jill Gladys
+https://cdn.jwplayer.com/manifests/7Gev4WNp.m3u8
+#EXTINF:-1,Obat Cacing
+https://cdn.jwplayer.com/manifests/r00aqOhe.m3u8
+#EXTINF:-1,Syuting Rumah
+https://cdn.jwplayer.com/manifests/UFh2UKPg.m3u8
+#EXTINF:-1,Diet Massal
+https://cdn.jwplayer.com/manifests/Hv8wi3rz.m3u8
+#EXTINF:-1,Mimpi Dalam Mimpi
+https://cdn.jwplayer.com/manifests/X6vTszsI.m3u8
+#EXTINF:-1,Adu Panco
+https://cdn.jwplayer.com/manifests/dflqDKaH.m3u8
+#EXTINF:-1,Komik Dan Piringan Hitam
+https://cdn.jwplayer.com/manifests/Obe5DW2D.m3u8
+#EXTINF:-1,Sakit Mata
+https://cdn.jwplayer.com/manifests/OHd2Sydg.m3u8
+#EXTINF:-1,Impas (Sama Sama Rusak)
+https://cdn.jwplayer.com/manifests/dFEP9jxh.m3u8
+#EXTINF:-1,Berantem Bikin Berniat Pindah Rumah: Tarzan
+https://cdn.jwplayer.com/manifests/eaiCqgl5.m3u8
