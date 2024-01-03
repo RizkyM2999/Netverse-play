@@ -13,7 +13,13 @@ def convert_to_m3u(api_url):
 
     for episode in episodes:
         jw_video_url = episode['jw_video_url']
-        m3u_playlist += f"#EXTINF:-1,{episode['title']}\n{jw_video_url}\n"
+        thumbnail_url = episode['thumbnail_image']
+        season_name = episode['parse_season_name']
+        episode_order = episode['parse_episode_order']
+        title = episode['title']
+        episode_info = f"{season_name} {episode_order}"
+        full_title = f"{title}"
+        m3u_playlist += f"#EXTINF:-1 tvg-logo=\"{thumbnail_url}\",{full_title}\n{jw_video_url}\n"
 
     return m3u_playlist
 
@@ -32,11 +38,12 @@ m3u_content = "#EXTM3U\n"
 for season_page in seasons_pages:
     season_id = season_page['season_id']
     total_pages = season_page['pages']
-
+    
     for page in range(1, total_pages+1):
         api_url = f"{base_url}season_id={season_id}&page={page}"
         m3u_content += convert_to_m3u(api_url)
 
 # Menyimpan konten m3u ke dalam file
-with open('playlist_all.m3u', 'w') as file:
+with open('playlist_all_with_info.m3u', 'w') as file:
     file.write(m3u_content)
+  
